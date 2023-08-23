@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGQfasUOtr9vqbrAJaxSXnX3umJ12JFohZx0fGAghoq/qMMTdT5/g4n60HwwmfhugcvtiGpVq932Lns7soaR2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a2-merceron\\Documents\\Autres codes\\QLearning_Form\\Mission3_QLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a2-merceron\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

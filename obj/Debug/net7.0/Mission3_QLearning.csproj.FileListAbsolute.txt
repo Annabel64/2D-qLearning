@@ -1,0 +1,51 @@
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\Mission3_QLearning.exe
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\Mission3_QLearning.deps.json
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\Mission3_QLearning.runtimeconfig.json
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfoInputs.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfo.cs
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\refint\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.genruntimeconfig.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\ref\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning\obj\Debug\net7.0\Mission3_QLearning.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\Mission3_QLearning.exe
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\Mission3_QLearning.deps.json
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\Mission3_QLearning.runtimeconfig.json
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfoInputs.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfo.cs
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\refint\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\Mission3_QLearning.genruntimeconfig.cache
+C:\Users\a2-merceron\Documents\Mission3_QLearning_Code\obj\Debug\net7.0\ref\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\Mission3_QLearning.exe
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\Mission3_QLearning.deps.json
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\Mission3_QLearning.runtimeconfig.json
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfoInputs.cache
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.AssemblyInfo.cs
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\refint\Mission3_QLearning.dll
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.pdb
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\Mission3_QLearning.genruntimeconfig.cache
+C:\Users\a2-merceron\Documents\Autres codes\QLearning_Form\obj\Debug\net7.0\ref\Mission3_QLearning.dll
