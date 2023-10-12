@@ -2,7 +2,6 @@
 mission carried out within Bandai Namco Studios
 
 For this mission, I have to code in C# an AI that:
-
 - Generates a 10*10 grid, where is placed randomly a "hero" character (here it is a heroine ^^) and a "treasure."
 - Code a q-learning "Exploration" function that randomly moves the heroine from square to square and learns which are the shortest paths to get to the treasure.
 o       When the heroine arrives at the treasure, the game is won, a new game begins the grid is reset (same starting point for the treasure, and random for the heroine).
