@@ -9,7 +9,8 @@ o       When the heroine arrives at the treasure, the game is won, a new game be
 o       Each box has a score {U, D, L, R}, stored in the variable qVector (up, down, left, right). It represents the Q-table and updates its values based on the hero's movements. The qVector is regularly filled with the values of the moves the heroine made.
 o       When the heroine arrives at the treasure, the AI gets a reward of 10 points. Thanks to the Bellman formula which is recursive, the rewards get distributed on the grid and are stored in the qVector.
 - Write an "Exploitation" function that initializes the grid once and uses the qVector to move the hero to the treasure in as few moves as possible.
-![3](https://github.com/Annabel64/2D-qLearning/assets/76532104/a37a1f4e-9e78-453b-b6cd-96ae4a1d097c) ![4](https://github.com/Annabel64/2D-qLearning/assets/76532104/bdafb5b8-43f1-4006-aa5c-78ff7ced46c9)
+![3](https://github.com/Annabel64/2D-qLearning/assets/76532104/a37a1f4e-9e78-453b-b6cd-96ae4a1d097c =250x)
+![4](https://github.com/Annabel64/2D-qLearning/assets/76532104/bdafb5b8-43f1-4006-aa5c-78ff7ced46c9 =250x)
 
 
 I had never coded q-learning7 algorithms. At school, we had seen the theory and I had inquired by myself as I was interested. This mission allowed me to understand how this type of algorithm works, and to code everything from scratch without using any library that does everything for us. It taught me a lot.
