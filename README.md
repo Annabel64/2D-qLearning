@@ -8,18 +8,17 @@ o       When the heroine arrives at the treasure, the game is won, a new game be
 o       Each box has a score {U, D, L, R}, stored in the variable qVector (up, down, left, right). It represents the Q-table and updates its values based on the hero's movements. The qVector is regularly filled with the values of the moves the heroine made.
 o       When the heroine arrives at the treasure, the AI gets a reward of 10 points. Thanks to the Bellman formula which is recursive, the rewards get distributed on the grid and are stored in the qVector.
 - Write an "Exploitation" function that initializes the grid once and uses the qVector to move the hero to the treasure in as few moves as possible.
-
-![3](https://github.com/Annabel64/2D-qLearning/assets/76532104/a37a1f4e-9e78-453b-b6cd-96ae4a1d097c)
-![4](https://github.com/Annabel64/2D-qLearning/assets/76532104/bdafb5b8-43f1-4006-aa5c-78ff7ced46c9)
-
+  
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76532104/274545582-a37a1f4e-9e78-453b-b6cd-96ae4a1d097c.png" width="400" height="400" /> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76532104/274545624-bdafb5b8-43f1-4006-aa5c-78ff7ced46c9.png" width="500" height="400" />
 
 I had never coded q-learning7 algorithms. At school, we had seen the theory and I had inquired by myself as I was interested. This mission allowed me to understand how this type of algorithm works, and to code everything from scratch without using any library that does everything for us. It taught me a lot.
 
-![qVector](https://github.com/Annabel64/2D-qLearning/assets/76532104/9510917f-01ca-40fe-a466-ce42410204bd)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76532104/274545520-9510917f-01ca-40fe-a466-ce42410204bd.JPG" width="500" height="400" />
 Here on the left is the visual representation of the qVector. We can see that the square with the most points is the square containing the treasure, and the more the square is far from the treasure, the less points it has. For example, here, the square (0,0) has the vector (u:0.18;d:0.37;l:0.18;r:0.37), because it is more interesting to go down or on the right, and the square (5,8) with the treasure has the vector (10;10;10;10), because it is the final square.
 
+
 The training (Exploration) is quite quick: around 15 seconds for 5000 exploration games, and less than 3% errors.
-![image](https://github.com/Annabel64/2D-qLearning/assets/76532104/7ec7a685-33af-4608-be7e-ca57a8450d8d)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76532104/274545834-7ec7a685-33af-4608-be7e-ca57a8450d8d.png" width="600" height="300" />
 
 A pillar of reinforcement learning is the Bellman equation. There are several versions of this equation, but the simplest is the one I used for this mission. Bellman introduces two notions that are used in the equation: the VALUE of a state, and the REWARD of an action. The equation states that the value of a state S depends only on the best action A that can be done from S (for example, A is going from S to S'). This value is:
 
